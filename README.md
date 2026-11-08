@@ -8,7 +8,10 @@ Website tĩnh viết bằng Next.js 16 (`output: "export"`), deploy lên **GitHu
 | `frontend/content/` | Nội dung: `site.json` (trang chủ), `docs/` (hướng dẫn, markdown), `knowledge/` (kiến thức) |
 | `frontend/public/` | Ảnh, `chat-kb.json` (cơ sở tri thức của widget chat), `CNAME` (tên miền) |
 | `docs/` | Đặc tả gốc `AGENTS.md`, hợp đồng API chatbot `CHATBOT_API.md` (dùng ở phase sau) |
-| `.github/workflows/deploy.yml` | Build và deploy lên GitHub Pages khi push vào `main` |
+| `frontend/scripts/deploy.mjs` | `npm run deploy`: build rồi đẩy bản build lên nhánh `main` (GitHub Pages) |
+
+**Hai nhánh:** `new-web` chứa mã nguồn (nhánh làm việc hằng ngày). `main` chỉ chứa HTML đã build mà
+GitHub Pages phục vụ (chế độ "Deploy from a branch"). Không sửa tay nhánh `main`.
 
 ## Chạy ở máy cá nhân
 
@@ -27,19 +30,30 @@ npm run dev                       # http://localhost:3000
 
 ## Deploy
 
-Push vào nhánh `main` → GitHub Actions chạy `npm ci`, `npm run build` với
-`NEXT_PUBLIC_CHAT_API=off`, rồi đăng thư mục `frontend/out/` lên GitHub Pages.
-Có thể chạy tay ở tab **Actions → Deploy GitHub Pages → Run workflow**.
+Mỗi lần thay đổi:
 
-Cấu hình một lần trên GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions**,
-và **Custom domain** là `phanmemnhatnam.com`.
+```bash
+# trên nhánh new-web, đã commit và push mã nguồn
+cd frontend
+npm run deploy               # lint + test + build + đẩy bản build lên main
+npm run deploy -- --dry-run  # (tùy chọn) làm hết các bước nhưng không push
+```
+
+Script tự làm những việc dễ quên:
+- build với `NEXT_PUBLIC_CHAT_API=off` và `NEXT_PUBLIC_SITE_URL=https://phanmemnhatnam.com` (bỏ qua `.env.local`);
+- thêm `.nojekyll` (thiếu file này GitHub Pages bỏ thư mục `_next/`, site mất CSS/JS);
+- giữ `CNAME` để giữ tên miền;
+- từ chối chạy nếu còn thay đổi chưa commit, để mỗi bản deploy ứng với một commit nguồn (`Deploy new-web@<sha>`).
+
+Sau 1–2 phút site cập nhật. Site đi qua Cloudflare: nếu vẫn thấy bản cũ, xóa cache Cloudflare.
+Quay lại bản trước: `git revert` commit deploy mới nhất trên `main` rồi push.
 
 ## Widget chat
 
 - Hiện tại (`NEXT_PUBLIC_CHAT_API=off`): trả lời ngay trong trình duyệt bằng cách so khớp câu hỏi với
   `frontend/public/chat-kb.json` (`frontend/src/lib/localKb.js`). Không cần server, không ghi log, nút 👍/👎 không lưu.
 - Phase sau: dựng chatbot server riêng theo hợp đồng `docs/CHATBOT_API.md`, rồi đổi `NEXT_PUBLIC_CHAT_API`
-  trong `.github/workflows/deploy.yml` thành URL HTTPS của server. Server phải cho phép CORS từ `https://phanmemnhatnam.com`.
+  trong `frontend/scripts/deploy.mjs` thành URL HTTPS của server. Server phải cho phép CORS từ `https://phanmemnhatnam.com`.
   Nếu server lỗi, widget tự quay về `chat-kb.json`.
 - Mọi biến `NEXT_PUBLIC_*` đều lộ ra trình duyệt: **không** đặt key hay token vào đó.
 
@@ -49,7 +63,7 @@ và **Custom domain** là `phanmemnhatnam.com`.
 - **Kiến thức**: `frontend/content/knowledge/*.json`
 - **Câu trả lời của widget chat**: `frontend/public/chat-kb.json`
 
-Sửa xong, chạy `npm run build` để kiểm tra rồi push lên `main`.
+Sửa xong: commit và push lên `new-web`, rồi `npm run deploy`.
 
 ## Ghi chú
 - CSS chuyển gần như nguyên văn từ bản mẫu thành các file global (`frontend/src/styles/`), không dùng CSS Module.
