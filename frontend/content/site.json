@@ -1,0 +1,446 @@
+{
+ "company": {
+  "name": "Công ty TNHH Tin học Nhất Nam",
+  "brand": "Nhất Nam",
+  "product": "Phần mềm kế toán Nhất Nam (Kế toán 1N)",
+  "slogan": "Đồng hành cùng doanh nghiệp Việt",
+  "founded": "09/06/2008",
+  "address": "Số 18 ngõ 41/82 Phố Vọng, phường Đồng Tâm, quận Hai Bà Trưng, Hà Nội",
+  "hotline": {
+   "name": "Ms Thảo",
+   "phone": "096.273.1994",
+   "tel": "0962731994"
+  },
+  "email": "dacthao246@gmail.com",
+  "youtube": "https://www.youtube.com/@phanmemketoannhatnam1313/",
+  "old_docs": "https://nhat-nam.gitbook.io/workspace/",
+  "logo": "/images/logo.png",
+  "product_box": "/images/box-nhat-nam.png"
+ },
+ "nav": [
+  {
+   "label": "Giải pháp",
+   "href": "/#giai-phap"
+  },
+  {
+   "label": "Tính năng",
+   "href": "/#tinh-nang"
+  },
+  {
+   "label": "Bảng giá",
+   "href": "/#bang-gia"
+  },
+  {
+   "label": "Hướng dẫn",
+   "href": "/huong-dan"
+  },
+  {
+   "label": "Kiến thức kế toán",
+   "href": "/kien-thuc"
+  },
+  {
+   "label": "Trợ lý AI",
+   "href": "/#tro-ly-ai"
+  },
+  {
+   "label": "Liên hệ",
+   "href": "/#lien-he"
+  }
+ ],
+ "hero": {
+  "title": "Phần mềm kế toán",
+  "highlight": "Nhất Nam",
+  "tagline": "Đồng hành cùng doanh nghiệp Việt",
+  "lead": "Đáp ứng đầy đủ các nghiệp vụ kế toán theo Thông tư 133/2016, 200/2014, 107/2017, 195/2012… cho mọi ngành nghề — đặc biệt mạnh với các đơn vị xây dựng, giao thông, thủy lợi, tư vấn và dự án.",
+  "cta_primary": {
+   "label": "Dùng thử miễn phí",
+   "href": "/#lien-he"
+  },
+  "cta_secondary": {
+   "label": "Hỏi Trợ lý AI",
+   "action": "open-chat"
+  },
+  "badges": [
+   "Kế toán doanh nghiệp",
+   "Chủ đầu tư",
+   "Hành chính sự nghiệp"
+  ],
+  "float_chips": [
+   {
+    "title": "Xử lý liên năm",
+    "text": "Báo cáo nhiều năm"
+   },
+   {
+    "title": "Xuất XML → HTKK",
+    "text": "Nộp báo cáo tài chính nhanh"
+   }
+  ]
+ },
+ "stats": [
+  {
+   "value": "2008",
+   "label": "Năm thành lập"
+  },
+  {
+   "value": "20+",
+   "label": "Nhân viên chính thức"
+  },
+  {
+   "value": "~100",
+   "label": "Cộng tác viên"
+  },
+  {
+   "value": "6",
+   "label": "Lĩnh vực chuyên ngành"
+  },
+  {
+   "value": "24/7",
+   "label": "Hỗ trợ kể cả ngày lễ"
+  }
+ ],
+ "ai_section": {
+  "tag": "Trợ lý AI · hỗ trợ 24/7",
+  "title": "Hỏi đáp tức thì cùng Trợ lý AI Nhất Nam",
+  "text": "Trợ lý AI được huấn luyện từ toàn bộ tài liệu hướng dẫn phần mềm và kiến thức kế toán theo các thông tư mới nhất — trả lời ngay cả ngoài giờ hành chính.",
+  "points": [
+   "Hướng dẫn từng bước thao tác trên phần mềm: cài đặt, nhập số dư, chứng từ, vật tư, TSCĐ, kết chuyển…",
+   "Gợi ý định khoản theo TT99/2025, TT200/2014, TT133/2016, kế toán HCSN và quy định thuế 2026.",
+   "Chuyển ngay sang tư vấn viên khi cần — hotline 096.273.1994."
+  ],
+  "sample_questions": [
+   "Cách nhập số dư đầu kỳ?",
+   "Hạch toán tiền lương theo TT133",
+   "Lấy báo cáo tài chính vào HTKK thế nào?",
+   "Thông tư 99/2025 thay đổi gì?"
+  ]
+ },
+ "solutions": {
+  "kicker": "Giải pháp theo lĩnh vực",
+  "title": "Một phần mềm – sáu lĩnh vực kế toán chuyên ngành",
+  "text": "Phần mềm được xây dựng theo hướng mở rộng, phù hợp mọi yêu cầu quản lý tài chính kế toán của từng loại hình đơn vị.",
+  "items": [
+   {
+    "icon": "sol-xay-dung.svg",
+    "title": "Xây dựng, sản xuất, xây lắp",
+    "text": "Quản lý chi phí dự án, chi phí sản xuất, tính giá thành và lợi nhuận; giám sát vật liệu, nhân công, thiết bị, thầu phụ. Quản lý kho theo công nợ – công trình, lập định mức nguyên vật liệu, tự động nhập xuất kho thành phẩm."
+   },
+   {
+    "icon": "sol-thuong-mai.svg",
+    "title": "Thương mại, dịch vụ, xuất nhập khẩu",
+    "text": "Quản lý tồn kho, báo cáo doanh thu – giá vốn, ghi nhận và phân loại doanh thu, chi phí thương mại. Xử lý ngoại tệ cho chi phí và hàng hóa, báo cáo phù hợp doanh nghiệp hoạt động quốc tế."
+   },
+   {
+    "icon": "sol-giao-thong-thuy-loi.svg",
+    "title": "Giao thông, thủy lợi",
+    "text": "Quản lý tài sản cố định, phân bổ chi phí ra công trình, quản lý nguồn vốn theo dự án; phân tích chi phí vận chuyển: nhiên liệu, bảo dưỡng, phí cầu đường…"
+   },
+   {
+    "icon": "sol-hcsn.svg",
+    "title": "Hành chính sự nghiệp",
+    "text": "Quản lý ngân sách, theo dõi và kiểm soát hoạt động tài chính của cơ quan, tổ chức công; báo cáo tài chính, báo cáo quyết toán; quản lý tài sản cố định, tài sản lưu động và các nguồn lực."
+   },
+   {
+    "icon": "sol-hcsn-co-thu.svg",
+    "title": "Hành chính sự nghiệp có thu",
+    "text": "Quản lý các nguồn thu (phí, lệ phí, dịch vụ sự nghiệp), tài chính, ngân sách, tài sản công; báo cáo tài chính và báo cáo nội bộ tuân thủ quy định pháp luật."
+   },
+   {
+    "icon": "sol-chu-dau-tu.svg",
+    "title": "Chủ đầu tư, ban quản lý dự án",
+    "text": "Quản lý tài chính dự án đầu tư xây dựng: kinh phí, nguồn vốn đầu tư, dự toán, nghiệm thu chi phí xây dựng cơ bản dở dang theo từng dự án, gói thầu, hạng mục."
+   }
+  ]
+ },
+ "features": {
+  "kicker": "Tính năng nổi bật",
+  "title": "Làm kế toán nhanh hơn, ít sai sót hơn",
+  "text": "Những công cụ được khách hàng sử dụng nhiều nhất trong phần mềm kế toán Nhất Nam.",
+  "items": [
+   {
+    "art": "feature-may-chu-may-tram.svg",
+    "tag": "Làm việc từ xa",
+    "title": "Kết nối máy chủ – máy trạm từ xa",
+    "text": "Nhiều máy làm việc cùng lúc, ở nhiều địa điểm khác nhau. Dữ liệu an toàn trên máy chủ và đồng bộ tức thì đến các máy trạm được cấp quyền truy cập.",
+    "link": {
+     "label": "Tìm hiểu cách cài đặt",
+     "href": "/huong-dan/cai-dat-may-chu"
+    }
+   },
+   {
+    "art": "feature-excel-vao-phan-mem.svg",
+    "tag": "Tiết kiệm thời gian",
+    "title": "Tự động nhập liệu từ Excel vào phần mềm",
+    "text": "Nhập tự động từ bảng kê hóa đơn đầu vào, đầu ra, bảng kê mua bán hàng hóa vật tư, sổ nhật ký… Rút ngắn thời gian nhập chứng từ và phát hiện hóa đơn trùng hoặc sai sót.",
+    "link": {
+     "label": "Xem hướng dẫn",
+     "href": "/huong-dan/chuyen-excel-vao-phan-mem-ke-toan"
+    }
+   },
+   {
+    "art": "feature-bctc-htkk.svg",
+    "tag": "Nộp báo cáo nhanh",
+    "title": "Chuyển báo cáo tài chính vào HTKK",
+    "text": "Công cụ tự động chuyển số liệu báo cáo tài chính ra tệp XML của HTKK, giúp doanh nghiệp nộp báo cáo nhanh chóng, tiện lợi và chính xác — không phải nhập lại bằng tay.",
+    "link": {
+     "label": "Xem hướng dẫn",
+     "href": "/huong-dan/lay-bao-cao-tai-chinh-vao-htkk"
+    }
+   },
+   {
+    "art": "feature-nhieu-du-lieu.svg",
+    "tag": "Dịch vụ kế toán",
+    "title": "Tạo nhiều bộ dữ liệu cho các công ty khác nhau",
+    "text": "Rất phù hợp với đơn vị chuyên làm dịch vụ kế toán, báo cáo thuế. Chủ động thêm mới một công ty chỉ với vài thao tác và đặc biệt không mất thêm bất kỳ chi phí nào.",
+    "link": {
+     "label": "Xem hướng dẫn",
+     "href": "/huong-dan/tao-du-lieu-moi"
+    }
+   },
+   {
+    "art": "feature-loc-chung-tu.svg",
+    "tag": "Như làm trên Excel",
+    "title": "Tiện ích lọc và sửa chứng từ dạng bảng kê",
+    "text": "Giao diện dễ nhìn, hiển thị đầy đủ thông tin chứng từ; lọc theo điều kiện, sửa đồng loạt nhiều chứng từ bằng Ctrl + E nhanh chóng với thao tác tương tự Excel.",
+    "link": {
+     "label": "Xem hướng dẫn",
+     "href": "/huong-dan/chinh-sua-dong-loat-chung-tu-ke-toan"
+    }
+   }
+  ]
+ },
+ "advantages": {
+  "kicker": "Vì sao chọn Nhất Nam",
+  "title": "Ưu điểm nổi trội của phần mềm",
+  "items": [
+   {
+    "icon": "adv-lien-nam.svg",
+    "title": "Xử lý liên năm",
+    "text": "In báo cáo nhiều năm không phải ghép từng năm."
+   },
+   {
+    "icon": "adv-ky-linh-hoat.svg",
+    "title": "Kỳ kế toán linh hoạt",
+    "text": "Mở sổ từ tháng bất kỳ, kỳ không nhất thiết 12 tháng."
+   },
+   {
+    "icon": "adv-khu-trung.svg",
+    "title": "Khử trùng bút toán",
+    "text": "Tự loại nghiệp vụ nhập ở nhiều nơi, không gấp đôi số liệu."
+   },
+   {
+    "icon": "adv-kiem-tra-chenh-lech.svg",
+    "title": "Kiểm tra chênh lệch",
+    "text": "Đối chiếu tài khoản, sổ chi tiết, tìm bút toán sai."
+   },
+   {
+    "icon": "adv-tim-kiem.svg",
+    "title": "Tìm kiếm gần đúng",
+    "text": "Không cần nhớ chính xác mã, tên trong danh mục."
+   },
+   {
+    "icon": "adv-danh-muc-n-cap.svg",
+    "title": "Danh mục N cấp",
+    "text": "Phân cấp mềm khách hàng, công trình, vật tư."
+   },
+   {
+    "icon": "adv-hop-nhat.svg",
+    "title": "Hợp nhất nhiều đơn vị",
+    "text": "Báo cáo hợp nhất có bù trừ công nợ nội bộ."
+   },
+   {
+    "icon": "adv-tu-tao-bao-cao.svg",
+    "title": "Tự tạo báo cáo",
+    "text": "Thiết kế báo cáo quản trị như Excel, xuất Excel/Word/XML."
+   }
+  ]
+ },
+ "pricing": {
+  "kicker": "Bảng giá",
+  "title": "Chọn phiên bản phù hợp với đơn vị",
+  "text": "Mua từ máy thứ 2 trở đi chỉ còn 4.000.000 đ/máy. Tạo thêm dữ liệu cho công ty khác không mất phí.",
+  "plans": [
+   {
+    "name": "Bản tiêu chuẩn",
+    "desc": "Phù hợp doanh nghiệp vừa và nhỏ",
+    "price": "6.000.000",
+    "unit": "đ",
+    "note": "Máy thứ 2 trở đi: 4.000.000 đ",
+    "features": [
+     "Đầy đủ các nghiệp vụ",
+     "Báo cáo tài chính theo chuẩn mực kế toán mới nhất",
+     "Hỗ trợ 8h–17h, thứ 2 đến thứ 6"
+    ]
+   },
+   {
+    "name": "Bản nâng cao",
+    "featured": true,
+    "ribbon": "ĐƯỢC CHỌN NHIỀU",
+    "desc": "Hỗ trợ 24/24 và chỉnh sửa báo cáo theo yêu cầu",
+    "price": "8.000.000",
+    "unit": "đ",
+    "note": "Máy thứ 2 trở đi: 4.000.000 đ",
+    "features": [
+     "Đầy đủ các nghiệp vụ",
+     "Báo cáo tài chính theo chuẩn mực kế toán mới nhất",
+     "Hỗ trợ 24/24 giờ tất cả các ngày trong năm",
+     "Chỉnh sửa báo cáo theo đúng yêu cầu tài chính kế toán của đơn vị"
+    ]
+   },
+   {
+    "name": "Bản chuyên nghiệp",
+    "desc": "Thêm nghiệp vụ chủ đầu tư, hành chính sự nghiệp",
+    "price": "Liên hệ",
+    "unit": "",
+    "note": "Tư vấn theo quy mô đơn vị",
+    "features": [
+     "Đầy đủ các nghiệp vụ",
+     "Đáp ứng nghiệp vụ chủ đầu tư, hành chính sự nghiệp",
+     "Hỗ trợ 24/24 giờ tất cả các ngày trong năm",
+     "Chỉnh sửa báo cáo theo đúng yêu cầu của đơn vị"
+    ]
+   }
+  ],
+  "offer": {
+   "title": "Ưu đãi khi dùng thử phần mềm",
+   "text": "Hỗ trợ quyết toán 1 quý của năm hiện tại và cả năm đối với các năm cũ · Tặng gói hỗ trợ trực tuyến 24/7 trong thời gian dùng thử · Giảm đến 50% từ máy thứ hai.",
+   "cta": "Đăng ký dùng thử"
+  }
+ },
+ "testimonials": {
+  "kicker": "Chia sẻ từ khách hàng",
+  "title": "Kế toán đã dùng Nhất Nam thì khó đổi phần mềm khác",
+  "items": [
+   "Giao diện thân thiện dễ nhìn, không nhức mắt, các chức năng được phân chia hợp lý, dễ thao tác.",
+   "Khả năng kiểm soát dữ liệu tốt với các công cụ tìm kiếm và xử lý phát hiện sai sót. Nhờ các công cụ hỗ trợ và sự nhiệt tình của đội ngũ phục vụ 24/24, công việc kế toán trở nên nhẹ nhõm.",
+   "Khóa cứng giúp bảo mật dữ liệu tuyệt đối — phải có khóa mới mở được phần mềm, và kế toán tự tạo nhiều bộ dữ liệu cho các công ty khác nhau mà không trả thêm phí.",
+   "Hỗ trợ sau bán hàng rất tuyệt vời: nhân viên nhiệt tình, uy tín, làm việc 24/24, gọi là được hỗ trợ trực tiếp, nhanh gọn, không phải chờ đợi.",
+   "Phần mềm không quảng cáo rầm rộ, chủ yếu được giới thiệu truyền miệng từ kế toán này sang kế toán khác; kế toán chuyển công tác cũng đặt dùng Nhất Nam tại công ty mới. Một khi đã sử dụng thì khó lòng thay đổi phần mềm khác."
+  ],
+  "author_label": "Khách hàng"
+ },
+ "install": {
+  "kicker": "Tải bộ cài kế toán",
+  "title": "Cài đặt trong 3 bước",
+  "text": "Nhất Nam hỗ trợ cài đặt miễn phí, kể cả qua điều khiển từ xa.",
+  "steps": [
+   {
+    "title": "Cài đặt SQL Server",
+    "text": "Công cụ lưu trữ dữ liệu kế toán. Có bộ cài riêng cho Windows 10/11.",
+    "link": {
+     "label": "Hướng dẫn cài SQL Server →",
+     "href": "/huong-dan/cai-dat-may-chu"
+    }
+   },
+   {
+    "title": "Cài phần mềm Nhất Nam",
+    "text": "Chạy file setup.exe trên máy chủ, sau đó cài máy trạm qua thư mục chia sẻ.",
+    "link": {
+     "label": "Hướng dẫn cài máy trạm →",
+     "href": "/huong-dan/cai-dat-may-tram"
+    }
+   },
+   {
+    "title": "Tạo bộ dữ liệu mới",
+    "text": "Tạo dữ liệu cho từng công ty, khai báo thông tin đơn vị và bắt đầu nhập số dư.",
+    "link": {
+     "label": "Hướng dẫn tạo dữ liệu →",
+     "href": "/huong-dan/tao-du-lieu-moi"
+    }
+   }
+  ],
+  "cta": "Liên hệ để được hỗ trợ cài đặt miễn phí"
+ },
+ "docs_teaser": {
+  "kicker": "Hướng dẫn & kiến thức",
+  "title": "Tự học phần mềm, tra cứu hạch toán theo thông tư",
+  "text": "Tài liệu được trình bày theo từng bước, có hình minh họa, tìm kiếm nhanh như GitBook.",
+  "cards": [
+   {
+    "icon": "doc-cai-dat.svg",
+    "title": "Cài đặt",
+    "text": "Máy chủ, máy trạm, cây dữ liệu hợp nhất",
+    "href": "/huong-dan/cai-dat-may-chu"
+   },
+   {
+    "icon": "doc-huong-dan-nhap.svg",
+    "title": "Hướng dẫn nhập",
+    "text": "Số dư, chứng từ, vật tư, TSCĐ, CCDC, định mức",
+    "href": "/huong-dan/nhap-so-du-dau"
+   },
+   {
+    "icon": "doc-tien-ich.svg",
+    "title": "Tiện ích",
+    "text": "Kết chuyển, Excel, HTKK, sao chép, in hàng loạt",
+    "href": "/huong-dan/ket-chuyen-va-phan-bo"
+   },
+   {
+    "icon": "doc-kien-thuc.svg",
+    "title": "Kiến thức kế toán",
+    "text": "Hạch toán theo TT99, TT200, TT133, HCSN, thuế 2026",
+    "href": "/kien-thuc"
+   }
+  ],
+  "highlights": [
+   {
+    "title": "Thông tư 99/2025 thay thế Thông tư 200: những thay đổi chính",
+    "pill": "Mới 2026",
+    "href": "/kien-thuc/thong-tu-99-2025"
+   },
+   {
+    "title": "Bảng so sánh hệ thống tài khoản TT99 – TT200 – TT133",
+    "pill": "Tra cứu",
+    "href": "/kien-thuc/he-thong-tai-khoan"
+   },
+   {
+    "title": "Hạch toán tiền lương, bảo hiểm, thuế TNCN",
+    "pill": "TT99 · TT133",
+    "href": "/kien-thuc/hach-toan-tien-luong-bao-hiem"
+   },
+   {
+    "title": "Hạch toán chi phí, doanh thu công trình xây lắp",
+    "pill": "TT99 · TT133",
+    "href": "/kien-thuc/hach-toan-xay-lap"
+   },
+   {
+    "title": "Kế toán hành chính sự nghiệp theo Thông tư 24/2024",
+    "pill": "HCSN",
+    "href": "/kien-thuc/ke-toan-hcsn-tt24-2024"
+   },
+   {
+    "title": "Thuế GTGT, TNDN, TNCN mới nhất",
+    "pill": "Thuế 2026",
+    "href": "/kien-thuc/thue"
+   }
+  ]
+ },
+ "contact": {
+  "title": "Liên hệ Nhất Nam",
+  "text": "Gọi ngay để được tư vấn, dùng thử và hỗ trợ cài đặt miễn phí.",
+  "commitments": [
+   "Hỗ trợ tư vấn trực tiếp 24/7, kể cả ngày lễ (bản nâng cao, chuyên nghiệp).",
+   "Cài đặt, nhập số liệu ban đầu và hướng dẫn sử dụng tận nơi hoặc từ xa.",
+   "Phục hồi dữ liệu khi máy tính gặp sự cố mất điện, tắt đột ngột.",
+   "Tiếp nhận góp ý và chỉnh sửa phần mềm theo đặc thù đơn vị.",
+   "Luôn cập nhật theo chuẩn mực kế toán, thông tư mới ban hành."
+  ]
+ },
+ "chatbot": {
+  "title": "Trợ lý AI Nhất Nam",
+  "status": "Trực tuyến · hỗ trợ 24/7",
+  "welcome": "Xin chào! Mình là **Trợ lý AI Nhất Nam**.\nMình có thể giúp bạn:\n- Cài đặt, sử dụng phần mềm kế toán Nhất Nam\n- Cách hạch toán theo Thông tư 99/2025, 200/2014, 133/2016\n- Thuế, hóa đơn, bảo hiểm và các quy định mới\nBạn hãy đặt câu hỏi hoặc chọn một gợi ý bên dưới nhé.",
+  "teaser": "Xin chào! 👋 Mình là trợ lý AI của Nhất Nam. Bạn cần hỗ trợ cài đặt, sử dụng phần mềm hay cách hạch toán?",
+  "suggestions": [
+   "Cách nhập số dư đầu kỳ?",
+   "Hạch toán tiền lương theo TT133",
+   "Cài đặt máy trạm như thế nào?",
+   "Bảng giá phần mềm",
+   "Thông tư 99/2025 thay đổi gì?"
+  ],
+  "disclaimer": "Câu trả lời do AI tạo, có thể chưa chính xác",
+  "handoff": "Gặp tư vấn viên"
+ },
+ "footer": {
+  "about": "Công ty TNHH Tin học Nhất Nam — đồng hành cùng kế toán Việt từ năm 2008.",
+  "copyright": "© 2008–2026 Công ty TNHH Tin học Nhất Nam. Bảo lưu mọi quyền."
+ }
+}

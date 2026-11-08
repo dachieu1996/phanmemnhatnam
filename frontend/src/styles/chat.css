@@ -1,0 +1,88 @@
+/* Widget Trợ lý AI — chuyển từ phần .nnc-* của prototype site.css */
+/* =================== CHATBOT – Trợ lý AI Nhất Nam =================== */
+.nnc{--nnc-w:390px;font-family:var(--font)}
+.nnc [hidden]{display:none!important}
+.nnc-launcher{position:fixed;right:22px;bottom:22px;z-index:90;width:66px;height:66px;border-radius:50%;border:3px solid var(--brand);cursor:pointer;background:#fff;color:var(--navy-900);box-shadow:0 10px 26px -8px rgba(15,35,66,.45),0 0 0 5px rgba(255,212,59,.22);display:flex;align-items:center;justify-content:center;transition:.2s;padding:0}
+.nnc-launcher:hover{transform:translateY(-2px);box-shadow:0 14px 30px -8px rgba(15,35,66,.5),0 0 0 7px rgba(255,212,59,.3)}
+.nnc-launcher .nnc-logo{position:relative;width:40px;height:40px;border-radius:10px;overflow:hidden;background:var(--brand);display:flex;align-items:center;justify-content:center;font:900 15px var(--font);color:var(--navy-900)}
+.nnc-launcher .nnc-logo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.nnc-launcher .nnc-bubble{position:absolute;left:-6px;bottom:-4px;width:26px;height:26px;border-radius:50%;background:var(--navy-900);color:#fff;display:flex;align-items:center;justify-content:center;border:2px solid #fff}
+.nnc-launcher .nnc-bubble svg{width:14px;height:14px}
+.nnc-launcher .nnc-ai{position:absolute;top:-6px;right:-6px;background:var(--navy-900);color:var(--brand);font-size:10.5px;font-weight:900;padding:2px 6px;border-radius:999px;border:2px solid #fff}
+.nnc-launcher::after{content:"";position:absolute;inset:-3px;border-radius:50%;border:2px solid var(--brand);animation:nncPulse 2.4s ease-out infinite;pointer-events:none}
+@keyframes nncPulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(1.35);opacity:0}}
+.nnc.is-open .nnc-launcher::after{display:none}
+@media (prefers-reduced-motion:reduce){.nnc-launcher::after{animation:none;display:none}}
+.nnc.is-open .nnc-launcher{transform:scale(.92)}
+.nnc-teaser{position:fixed;right:22px;bottom:100px;z-index:90;max-width:300px;display:flex;gap:10px;align-items:flex-start;background:#fff;border:1px solid var(--line);border-radius:14px 14px 4px 14px;box-shadow:var(--shadow);padding:14px 34px 14px 14px;font-size:14px;color:var(--text);cursor:pointer;animation:nncIn .3s ease}
+.nnc-teaser b{color:var(--ink)}
+.nnc-teaser-x{position:absolute;top:8px;right:8px;width:22px;height:22px;border:0;background:none;color:var(--muted);cursor:pointer;padding:2px}
+.nnc-teaser-x svg{width:16px;height:16px}
+.nnc-panel{position:fixed;right:22px;bottom:96px;z-index:95;width:var(--nnc-w);height:min(640px,calc(100vh - 120px));background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:0 24px 60px -18px rgba(15,35,66,.45);display:flex;flex-direction:column;overflow:hidden;animation:nncIn .22s ease}
+@keyframes nncIn{from{opacity:0;transform:translateY(10px) scale(.98)}to{opacity:1;transform:none}}
+.nnc-head{display:flex;align-items:center;gap:10px;padding:14px 12px 14px 16px;background:var(--navy-900);color:#fff}
+.nnc-ava{position:relative;overflow:hidden;flex:0 0 38px;width:38px;height:38px;border-radius:10px;background:var(--brand);color:var(--navy-900);font:900 15px/38px var(--font);text-align:center;letter-spacing:-.02em}
+.nnc-ava img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.nnc-ava.sm{flex-basis:28px;width:28px;height:28px;border-radius:8px;font-size:11px;line-height:28px}
+.nnc-head .nnc-ava{box-shadow:0 0 0 2px rgba(255,255,255,.9)}
+.nnc-title{flex:1;min-width:0;line-height:1.25}
+.nnc-title b{display:block;font-size:15.5px}
+.nnc-title small{display:inline-flex;align-items:center;gap:6px;font-size:12px;color:#b9c3d3}
+.nnc-title small i{width:7px;height:7px;border-radius:50%;background:#3ccf7f;box-shadow:0 0 0 3px rgba(60,207,127,.2)}
+.nnc-ib{width:34px;height:34px;border-radius:9px;border:0;background:transparent;color:#d5dce8;cursor:pointer;display:flex;align-items:center;justify-content:center}
+.nnc-ib:hover{background:rgba(255,255,255,.1);color:#fff}
+.nnc-ib svg{width:18px;height:18px}
+.nnc-body{flex:1;overflow-y:auto;padding:14px 14px 6px;background:var(--bg-soft);scroll-behavior:smooth}
+.nnc-day{text-align:center;font-size:11.5px;color:var(--muted);margin:2px 0 10px}
+.nnc-msg{display:flex;gap:8px;margin:0 0 12px;align-items:flex-end}
+.nnc-msg.me{justify-content:flex-end}
+.nnc-msg .nnc-b{max-width:84%;font-size:14.5px;line-height:1.55;padding:10px 13px;border-radius:14px;word-wrap:break-word}
+.nnc-msg.me .nnc-b{background:var(--brand);color:var(--navy-900);border-bottom-right-radius:4px;white-space:pre-wrap}
+.nnc-msg.bot{align-items:flex-start}
+.nnc-col{display:flex;flex-direction:column;gap:4px;max-width:86%;min-width:0}
+.nnc-msg.bot .nnc-b{max-width:100%;background:#fff;border:1px solid var(--line);color:var(--ink);border-top-left-radius:4px}
+.nnc-b p{margin:0 0 6px}
+.nnc-b p:last-child{margin-bottom:0}
+.nnc-b p.nnc-h{font-weight:700;margin-top:8px}
+.nnc-b p.nnc-indent{padding-left:22px}
+.nnc-b ul{margin:2px 0 8px;padding-left:18px}
+.nnc-b li{margin:2px 0}
+.nnc-dr,.nnc-cr{display:inline-block;font-size:11px;font-weight:700;border-radius:4px;padding:0 5px;margin-right:2px;vertical-align:1px}
+.nnc-dr{background:var(--brand);color:var(--navy-900)}
+.nnc-cr{background:#fff;color:var(--ink);border:1px solid var(--line)}
+.nnc-src{margin-top:8px;padding-top:8px;border-top:1px dashed var(--line);display:flex;flex-direction:column;gap:4px}
+.nnc-src a{font-size:13px;font-weight:700;color:var(--navy-900)}
+.nnc-acts{display:flex;align-items:center;gap:2px;padding-left:2px}
+.nnc-acts button{width:26px;height:26px;border:0;background:none;color:#9aa4b5;border-radius:6px;cursor:pointer;display:flex;align-items:center;justify-content:center}
+.nnc-acts button:hover{background:#fff;color:var(--ink)}
+.nnc-acts button.on{color:var(--brand-ink)}
+.nnc-acts svg{width:14px;height:14px}
+.nnc-tag{display:inline-flex;align-items:center;gap:3px;font-size:11px;color:var(--muted);margin-right:6px}
+.nnc-tag svg{width:11px;height:11px;color:var(--brand-600)}
+.nnc-typing .nnc-b{display:flex;gap:4px;padding:13px 14px;background:#fff;border:1px solid var(--line);border-radius:14px;border-top-left-radius:4px}
+.nnc-typing .nnc-b span{width:7px;height:7px;border-radius:50%;background:#b8c1cf;animation:nncDot 1.2s infinite}
+.nnc-typing .nnc-b span:nth-child(2){animation-delay:.15s}
+.nnc-typing .nnc-b span:nth-child(3){animation-delay:.3s}
+@keyframes nncDot{0%,60%,100%{transform:none;opacity:.5}30%{transform:translateY(-4px);opacity:1}}
+.nnc-chips{display:flex;gap:6px;overflow-x:auto;padding:8px 12px 4px;background:var(--bg-soft);scrollbar-width:none}
+.nnc-chips::-webkit-scrollbar{display:none}
+.nnc-chips button{flex:0 0 auto;font:500 13px var(--font);color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:999px;padding:7px 12px;cursor:pointer;white-space:nowrap}
+.nnc-chips button:hover{border-color:var(--brand-600);background:var(--brand-50)}
+.nnc-form{display:flex;align-items:flex-end;gap:8px;padding:10px 12px;border-top:1px solid var(--line-2);background:#fff}
+.nnc-form textarea{flex:1;resize:none;overflow-y:hidden;height:42px;border:1px solid var(--line);border-radius:12px;padding:10px 12px;font:400 14.5px/1.45 var(--font);color:var(--ink);max-height:120px;outline:none;background:var(--bg-soft)}
+.nnc-form textarea:focus{border-color:var(--brand-600);background:#fff;box-shadow:0 0 0 3px var(--brand-50)}
+.nnc-send{flex:0 0 42px;width:42px;height:42px;border-radius:12px;border:0;background:var(--brand);color:var(--navy-900);cursor:pointer;display:flex;align-items:center;justify-content:center}
+.nnc-send:hover{background:var(--brand-600)}
+.nnc-send svg{width:20px;height:20px}
+.nnc-foot{font-size:11.5px;color:var(--muted);text-align:center;padding:0 12px 10px;background:#fff}
+.nnc-foot a{color:var(--navy-900);font-weight:700;text-decoration:none;display:inline-flex;align-items:center;gap:4px}
+.nnc-foot .nnc-hotline{color:var(--navy-900);display:inline-flex;align-items:center;gap:4px}
+.nnc-foot svg{width:12px;height:12px}
+@media (max-width:640px){
+  .nnc-panel{right:0;bottom:0;width:100%;height:100%;max-height:none;border-radius:0;border:0}
+  .nnc.is-open .nnc-launcher{display:none}
+  .nnc-launcher{right:16px;bottom:16px;width:60px;height:60px}
+  .nnc-launcher .nnc-logo{width:36px;height:36px}
+  .nnc-teaser{right:16px;bottom:90px;max-width:calc(100vw - 32px)}
+}
+

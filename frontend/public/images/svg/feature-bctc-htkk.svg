@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 210" fill="none">
+        <rect x="28" y="36" width="90" height="120" rx="10" fill="#fff" stroke="#0b2447" stroke-width="2"/>
+        <text x="44" y="64" font-family="Arial" font-weight="800" font-size="15" fill="#0b2447">BCTC</text>
+        <g fill="#e3e6ec"><rect x="44" y="76" width="58" height="6" rx="3"/><rect x="44" y="90" width="46" height="6" rx="3"/><rect x="44" y="104" width="52" height="6" rx="3"/></g>
+        <g fill="#0b2447"><rect x="44" y="126" width="9" height="16" rx="2"/><rect x="58" y="118" width="9" height="24" rx="2"/><rect x="72" y="124" width="9" height="18" rx="2"/></g>
+        <rect x="86" y="112" width="9" height="30" rx="2" fill="#ffd43b"/>
+        <path d="M128 96h30m-9-9 9 9-9 9" stroke="#0b2447" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="168" y="56" width="70" height="84" rx="10" fill="#fff9e3" stroke="#e8b800" stroke-width="2"/>
+        <text x="183" y="104" font-family="Arial" font-weight="800" font-size="17" fill="#0b2447">XML</text>
+        <path d="M246 96h24m-8-8 8 8-8 8" stroke="#0b2447" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M278 80l26-14 26 14z" fill="#0b2447"/><path d="M284 82v34M296 82v34M312 82v34M324 82v34M278 120h52" stroke="#0b2447" stroke-width="3"/>
+        <text x="282" y="146" font-family="Arial" font-weight="700" font-size="12" fill="#0b2447">HTKK</text>
+      </svg>

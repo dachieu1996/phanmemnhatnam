@@ -1,0 +1,23 @@
+/* Biến thiết kế — AGENTS.md mục 4.1 (vàng logo 1N + navy + thang xám) */
+:root {
+  --brand: #ffd43b; /* vàng logo – nền nút chính, điểm nhấn */
+  --brand-600: #f5c518; /* hover */
+  --brand-ink: #8a6500; /* chữ/viền vàng đậm trên nền sáng (đạt tương phản) */
+  --brand-100: #f7e3a1;
+  --brand-50: #fff9e3;
+  --navy-900: #0f2342; /* tiêu đề, khối tối, header chatbot */
+  --ink: #16243b;
+  --text: #3d4a5f;
+  --muted: #6c778a;
+  --line: #e3e8ef;
+  --line-2: #eef1f6;
+  --bg: #fff;
+  --bg-soft: #f7f9fc;
+  --radius: 14px;
+  --maxw: 1180px;
+  --shadow-sm: 0 1px 2px rgba(15, 35, 66, 0.05), 0 1px 3px rgba(15, 35, 66, 0.06);
+  --shadow: 0 12px 30px -16px rgba(15, 35, 66, 0.25);
+  --font: var(--font-roboto), "Roboto", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+  --ok: #1f9d55;
+  --err: #c0392b;
+}

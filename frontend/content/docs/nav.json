@@ -1,0 +1,201 @@
+[
+ {
+  "group": "Bắt đầu",
+  "items": [
+   {
+    "title": "Giới thiệu sản phẩm",
+    "slug": "gioi-thieu-san-pham",
+    "file": "bat-dau/gioi-thieu-san-pham.md",
+    "source": "README.md"
+   },
+   {
+    "title": "Giới thiệu công ty",
+    "slug": "gioi-thieu-cong-ty",
+    "file": "bat-dau/gioi-thieu-cong-ty.md",
+    "source": "gioi-thieu-cong-ty.md"
+   },
+   {
+    "title": "Tải bản hướng dẫn dạng .doc",
+    "slug": "tai-ban-huong-dan",
+    "file": "bat-dau/tai-ban-huong-dan.md",
+    "source": "tai-ban-huong-dan-dang-.doc.md"
+   }
+  ]
+ },
+ {
+  "group": "Cài đặt",
+  "items": [
+   {
+    "title": "Cài đặt máy chủ",
+    "slug": "cai-dat-may-chu",
+    "file": "cai-dat/cai-dat-may-chu.md",
+    "source": "cai-dat/cai-dat-may-chu.md"
+   },
+   {
+    "title": "Cài đặt máy trạm",
+    "slug": "cai-dat-may-tram",
+    "file": "cai-dat/cai-dat-may-tram.md",
+    "source": "cai-dat/cai-dat-may-tram.md"
+   },
+   {
+    "title": "Cài đặt cây dữ liệu hợp nhất",
+    "slug": "cai-dat-cay-du-lieu-hop-nhat",
+    "file": "cai-dat/cai-dat-cay-du-lieu-hop-nhat.md",
+    "source": "cai-dat/cai-dat-cay-du-lieu-hop-nhat.md"
+   }
+  ]
+ },
+ {
+  "group": "Hướng dẫn nhập",
+  "items": [
+   {
+    "title": "Nhập số dư đầu",
+    "slug": "nhap-so-du-dau",
+    "file": "huong-dan-nhap/nhap-so-du-dau.md",
+    "source": "huong-dan-su-dung-1/nhap-so-du-dau.md"
+   },
+   {
+    "title": "Nhập chứng từ kế toán",
+    "slug": "nhap-chung-tu-ke-toan",
+    "file": "huong-dan-nhap/nhap-chung-tu-ke-toan.md",
+    "source": "huong-dan-su-dung-1/nhap-chung-tu-ke-toan.md"
+   },
+   {
+    "title": "Nhập - xuất vật tư - hàng hóa",
+    "slug": "nhap-xuat-vat-tu-hang-hoa",
+    "file": "huong-dan-nhap/nhap-xuat-vat-tu-hang-hoa.md",
+    "source": "huong-dan-su-dung-1/nhap-xuat-vat-tu-hang-hoa.md"
+   },
+   {
+    "title": "Phiếu nhập - xuất thẳng vật tư",
+    "slug": "phieu-nhap-xuat-thang-vat-tu",
+    "file": "huong-dan-nhap/phieu-nhap-xuat-thang-vat-tu.md",
+    "source": "huong-dan-su-dung-1/phieu-nhap-xuat-thang-vat-tu.md"
+   },
+   {
+    "title": "Nhập Tài sản cố định",
+    "slug": "nhap-tai-san-co-dinh",
+    "file": "huong-dan-nhap/nhap-tai-san-co-dinh.md",
+    "source": "huong-dan-su-dung-1/nhap-tai-san-co-dinh.md"
+   },
+   {
+    "title": "Thanh lý TSCĐ trên phần mềm kế toán",
+    "slug": "thanh-ly-tscd-tren-phan-mem-ke-toan",
+    "file": "huong-dan-nhap/thanh-ly-tscd-tren-phan-mem-ke-toan.md",
+    "source": "huong-dan-su-dung-1/thanh-ly-tscd-tren-phan-mem-ke-toan.md"
+   },
+   {
+    "title": "Nhập Công cụ dụng cụ",
+    "slug": "nhap-cong-cu-dung-cu",
+    "file": "huong-dan-nhap/nhap-cong-cu-dung-cu.md",
+    "source": "huong-dan-su-dung-1/nhap-cong-cu-dung-cu.md"
+   },
+   {
+    "title": "Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT200",
+    "slug": "nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat",
+    "file": "huong-dan-nhap/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat.md",
+    "source": "huong-dan-su-dung-1/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat.md"
+   },
+   {
+    "title": "Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT133",
+    "slug": "nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat-theo-tt133",
+    "file": "huong-dan-nhap/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat-theo-tt133.md",
+    "source": "huong-dan-su-dung-1/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat-theo-tt133.md"
+   },
+   {
+    "title": "Nhập chứng từ hàng bán bị trả lại",
+    "slug": "nhap-chung-tu-hang-ban-bi-tra-lai",
+    "file": "huong-dan-nhap/nhap-chung-tu-hang-ban-bi-tra-lai.md",
+    "source": "huong-dan-su-dung-1/nhap-chung-tu-hang-ban-bi-tra-lai.md"
+   },
+   {
+    "title": "Nhập phân bổ chiết khấu mua hàng",
+    "slug": "nhap-phieu",
+    "file": "huong-dan-nhap/nhap-phieu.md",
+    "source": "huong-dan-su-dung-1/nhap-phieu.md"
+   },
+   {
+    "title": "Nhập các bảng từ điển trong hệ thống",
+    "slug": "nhap-tu-dien-he-thong",
+    "file": "huong-dan-nhap/nhap-tu-dien-he-thong.md",
+    "source": "huong-dan-su-dung-1/nhap-tu-dien-he-thong.md"
+   }
+  ]
+ },
+ {
+  "group": "Kế toán vận tải",
+  "items": [
+   {
+    "title": "Nhập chứng từ kế toán (vận tải)",
+    "slug": "nhap-chung-tu-ke-toan-van-tai",
+    "file": "ke-toan-van-tai/nhap-chung-tu-ke-toan-van-tai.md",
+    "source": "ke-toan-van-tai/nhap-chung-tu-ke-toan.md"
+   },
+   {
+    "title": "Nhập các bảng từ điển",
+    "slug": "nhap-cac-bang-tu-dien",
+    "file": "ke-toan-van-tai/nhap-cac-bang-tu-dien.md",
+    "source": "ke-toan-van-tai/nhap-cac-bang-tu-dien.md"
+   }
+  ]
+ },
+ {
+  "group": "Hướng dẫn tiện ích",
+  "items": [
+   {
+    "title": "Kết chuyển và Phân bổ tài khoản",
+    "slug": "ket-chuyen-va-phan-bo",
+    "file": "huong-dan-tien-ich/ket-chuyen-va-phan-bo.md",
+    "source": "huong-dan-tien-ich/untitled.md"
+   },
+   {
+    "title": "Tạo dữ liệu mới",
+    "slug": "tao-du-lieu-moi",
+    "file": "huong-dan-tien-ich/tao-du-lieu-moi.md",
+    "source": "huong-dan-tien-ich/tao-du-lieu-moi.md"
+   },
+   {
+    "title": "Phục hồi dữ liệu cũ",
+    "slug": "phuc-hoi-du-lieu-cu",
+    "file": "huong-dan-tien-ich/phuc-hoi-du-lieu-cu.md",
+    "source": "huong-dan-tien-ich/phuc-hoi-du-lieu-cu.md"
+   },
+   {
+    "title": "Sao chép số liệu sang dữ liệu khác",
+    "slug": "sao-chep-so-lieu-sang-du-lieu-khac",
+    "file": "huong-dan-tien-ich/sao-chep-so-lieu-sang-du-lieu-khac.md",
+    "source": "huong-dan-tien-ich/sao-chep-so-lieu-sang-du-lieu-khac.md"
+   },
+   {
+    "title": "Sử dụng menu Tiện ích",
+    "slug": "su-dung-thanh-menu-tien-ich",
+    "file": "huong-dan-tien-ich/su-dung-thanh-menu-tien-ich.md",
+    "source": "huong-dan-tien-ich/su-dung-thanh-menu-tien-ich.md"
+   },
+   {
+    "title": "Chỉnh sửa đồng loạt chứng từ kế toán",
+    "slug": "chinh-sua-dong-loat-chung-tu-ke-toan",
+    "file": "huong-dan-tien-ich/chinh-sua-dong-loat-chung-tu-ke-toan.md",
+    "source": "huong-dan-tien-ich/chinh-sua-dong-loat-chung-tu-ke-toan.md"
+   },
+   {
+    "title": "Lấy Báo cáo tài chính vào HTKK",
+    "slug": "lay-bao-cao-tai-chinh-vao-htkk",
+    "file": "huong-dan-tien-ich/lay-bao-cao-tai-chinh-vao-htkk.md",
+    "source": "huong-dan-tien-ich/lay-bao-cao-tai-chinh-vao-htkk.md"
+   },
+   {
+    "title": "Chuyển Excel vào phần mềm kế toán",
+    "slug": "chuyen-excel-vao-phan-mem-ke-toan",
+    "file": "huong-dan-tien-ich/chuyen-excel-vao-phan-mem-ke-toan.md",
+    "source": "huong-dan-tien-ich/chuyen-excel-vao-phan-mem-ke-toan.md"
+   },
+   {
+    "title": "In một loạt chứng từ kế toán",
+    "slug": "in-mot-loat-chung-tu-ke-toan",
+    "file": "huong-dan-tien-ich/in-mot-loat-chung-tu-ke-toan.md",
+    "source": "huong-dan-tien-ich/in-mot-loat-chung-tu-ke-toan.md"
+   }
+  ]
+ }
+]

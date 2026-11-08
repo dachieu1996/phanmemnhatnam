@@ -1,0 +1,21 @@
+# Node / Next
+node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env.local
+*.tsbuildinfo
+next-env.d.ts
+
+# Bí mật
+.env
+.env.*
+!.env.example
+
+# Backend cũ — đã chuyển sang E:\NHATNAM\_archive_website_NN, không thuộc repo này.
+# Xóa thư mục backend/ khi đã dừng server cũ.
+/backend/
+
+# Khác
+*.rar
+.DS_Store
+Thumbs.db
