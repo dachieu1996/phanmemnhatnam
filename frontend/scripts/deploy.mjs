@@ -56,6 +56,9 @@ try {
   run(`git worktree add --detach "${wt}" origin/${BRANCH}`);
   for (const f of fs.readdirSync(wt)) if (f !== ".git") fs.rmSync(path.join(wt, f), { recursive: true, force: true });
   fs.cpSync(OUT, wt, { recursive: true });
+  // Xóa index rồi add lại để git lấy đúng chữ hoa/thường của tên file: Windows không phân biệt
+  // (ghi logo.png đè Logo.png vẫn giữ tên cũ), còn GitHub Pages có phân biệt → 404.
+  run("git rm -r -q --cached .", { cwd: wt });
   run("git add -A", { cwd: wt });
   if (!read("git status --porcelain", wt)) {
     log("Bản build giống hệt bản đang chạy — không có gì để deploy.");
