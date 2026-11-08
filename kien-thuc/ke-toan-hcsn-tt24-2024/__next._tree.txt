@@ -1,0 +1,7 @@
+:HL["/_next/static/chunks/455f49cm42kp0.css","style"]
+:HL["/_next/static/media/c5f006ccf96c15fe-s.p.0a0h245ktd4x0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e91a3f372062aa7f-s.p.1szw2e8s5ktgm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"ke-toan-hcsn-tt24-2024","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"kien-thuc","h":131136,"c":"$Q2"}]]
+0:{"b":"4SlL3PREc8TNGwDvcikjB","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}

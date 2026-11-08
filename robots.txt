@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Host: https://phanmemnhatnam.com
+Sitemap: https://phanmemnhatnam.com/sitemap.xml

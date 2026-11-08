@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 210" fill="none">
+        <rect x="24" y="40" width="112" height="130" rx="10" fill="#fff" stroke="#0b2447" stroke-width="2"/>
+        <rect x="24" y="40" width="112" height="24" rx="10" fill="#0b2447"/><rect x="24" y="54" width="112" height="10" fill="#0b2447"/>
+        <text x="40" y="57" font-family="Arial" font-weight="700" font-size="12" fill="#fff">X  Bảng kê.xlsx</text>
+        <g stroke="#ece7d6"><path d="M24 86h112M24 106h112M24 126h112M24 146h112M60 64v106M98 64v106"/></g>
+        <g fill="#0b2447" opacity=".35"><rect x="30" y="72" width="24" height="8" rx="2"/><rect x="66" y="72" width="26" height="8" rx="2"/><rect x="104" y="72" width="26" height="8" rx="2"/></g>
+        <path d="M150 105h38m-10-10 10 10-10 10" stroke="#0b2447" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="202" y="40" width="116" height="130" rx="12" fill="#0b2447"/>
+        <rect x="214" y="52" width="30" height="30" rx="8" fill="#ffd43b"/><text x="218" y="73" font-family="Arial Black,Arial" font-weight="900" font-size="15" fill="#0b2447">1N</text>
+        <g fill="#f0c419"><rect x="214" y="96" width="92" height="10" rx="5"/><rect x="214" y="114" width="78" height="10" rx="5"/><rect x="214" y="132" width="86" height="10" rx="5"/></g>
+        <circle cx="300" cy="62" r="12" fill="#0b2447"/><path d="M294 62l4 4 8-9" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/>
+      </svg>

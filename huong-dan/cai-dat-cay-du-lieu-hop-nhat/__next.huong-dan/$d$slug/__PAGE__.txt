@@ -1,0 +1,55 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/39f_zpv-0ot6x.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/2lt0rzlshaptm.js"
+d:I[72766,["$3","$c"],"default"]
+16:"ViewportBoundary"
+17:I[97367,["$3"],"$16"]
+18:"MetadataBoundary"
+19:I[97367,["$3"],"$18"]
+1a:"$Sreact.suspense"
+1b:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","$Ld",null,{"space":"huong-dan","groups":[{"group":"Bắt đầu","items":[{"title":"Giới thiệu sản phẩm","href":"/huong-dan/gioi-thieu-san-pham"},{"title":"Giới thiệu công ty","href":"/huong-dan/gioi-thieu-cong-ty"},{"title":"Tải bản hướng dẫn dạng .doc","href":"/huong-dan/tai-ban-huong-dan"}]},{"group":"Cài đặt","items":[{"title":"Cài đặt máy chủ","href":"/huong-dan/cai-dat-may-chu"},{"title":"Cài đặt máy trạm","href":"/huong-dan/cai-dat-may-tram"},{"title":"Cài đặt cây dữ liệu hợp nhất","href":"/huong-dan/cai-dat-cay-du-lieu-hop-nhat"}]},{"group":"Hướng dẫn nhập","items":[{"title":"Nhập số dư đầu","href":"/huong-dan/nhap-so-du-dau"},{"title":"Nhập chứng từ kế toán","href":"/huong-dan/nhap-chung-tu-ke-toan"},{"title":"Nhập - xuất vật tư - hàng hóa","href":"/huong-dan/nhap-xuat-vat-tu-hang-hoa"},{"title":"Phiếu nhập - xuất thẳng vật tư","href":"/huong-dan/phieu-nhap-xuat-thang-vat-tu"},{"title":"Nhập Tài sản cố định","href":"/huong-dan/nhap-tai-san-co-dinh"},{"title":"Thanh lý TSCĐ trên phần mềm kế toán","href":"/huong-dan/thanh-ly-tscd-tren-phan-mem-ke-toan"},{"title":"Nhập Công cụ dụng cụ","href":"/huong-dan/nhap-cong-cu-dung-cu"},{"title":"Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT200","href":"/huong-dan/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat"},{"title":"Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT133","href":"/huong-dan/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat-theo-tt133"},{"title":"Nhập chứng từ hàng bán bị trả lại","href":"/huong-dan/nhap-chung-tu-hang-ban-bi-tra-lai"},{"title":"Nhập phân bổ chiết khấu mua hàng","href":"/huong-dan/nhap-phieu"},{"title":"Nhập các bảng từ điển trong hệ thống","href":"/huong-dan/nhap-tu-dien-he-thong"}]},{"group":"Kế toán vận tải","items":[{"title":"Nhập chứng từ kế toán (vận tải)","href":"/huong-dan/nhap-chung-tu-ke-toan-van-tai"},{"title":"Nhập các bảng từ điển","href":"/huong-dan/nhap-cac-bang-tu-dien"}]},{"group":"Hướng dẫn tiện ích","items":[{"title":"Kết chuyển và Phân bổ tài khoản","href":"/huong-dan/ket-chuyen-va-phan-bo"},{"title":"Tạo dữ liệu mới","href":"/huong-dan/tao-du-lieu-moi"},{"title":"Phục hồi dữ liệu cũ","href":"/huong-dan/phuc-hoi-du-lieu-cu"},{"title":"Sao chép số liệu sang dữ liệu khác","href":"/huong-dan/sao-chep-so-lieu-sang-du-lieu-khac"},{"title":"Sử dụng menu Tiện ích","href":"/huong-dan/su-dung-thanh-menu-tien-ich"},{"title":"Chỉnh sửa đồng loạt chứng từ kế toán","href":"/huong-dan/chinh-sua-dong-loat-chung-tu-ke-toan"},{"title":"Lấy Báo cáo tài chính vào HTKK","href":"/huong-dan/lay-bao-cao-tai-chinh-vao-htkk"},{"title":"Chuyển Excel vào phần mềm kế toán","href":"/huong-dan/chuyen-excel-vao-phan-mem-ke-toan"},{"title":"In một loạt chứng từ kế toán","href":"/huong-dan/in-mot-loat-chung-tu-ke-toan"}]}],"toc":[{"id":"vao-du-lieu-cong-ty-me-de-thuc-hien-bao-cao-hop-nhat","text":"Vào dữ liệu công ty mẹ để thực hiện báo cáo hợp nhất.","level":2},{"id":"buoc-1-thay-doi-tham-so-trong-he-thong","text":"Bước 1: Thay đổi tham số trong hệ thống","level":2},{"id":"buoc-2-tu-dien-don-vi-hop-nhat-du-lieu","text":"Bước 2: Từ điển đơn vị hợp nhất dữ liệu","level":2},{"id":"buoc-3-in-bao-cao-hop-nhat","text":"Bước 3: In báo cáo hợp nhất","level":2}],"help":{"name":"Ms Thảo","phone":"096.273.1994","tel":"0962731994"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Hướng dẫn sử dụng\",\"item\":\"https://phanmemnhatnam.com/huong-dan\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Cài đặt cây dữ liệu hợp nhất\",\"item\":\"https://phanmemnhatnam.com/huong-dan/cai-dat-cay-du-lieu-hop-nhat\"}]}"}}],"$Le","$Lf","$L10","$L11","$L12"]}],["$L13"],"$L14"]}],"p":"$@15","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"cai-dat-cay-du-lieu-hop-nhat","s":[]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"huong-dan","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffd43b"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Cài đặt cây dữ liệu hợp nhất | Phần mềm kế toán Nhất Nam"}],["$","meta","1",{"name":"description","content":"Hợp nhất báo cáo từ các dữ liệu riêng lẻ"}],["$","meta","2",{"name":"application-name","content":"Phần mềm kế toán Nhất Nam"}],["$","link","3",{"rel":"canonical","href":"https://phanmemnhatnam.com/huong-dan/cai-dat-cay-du-lieu-hop-nhat"}],["$","meta","4",{"property":"og:title","content":"Cài đặt cây dữ liệu hợp nhất"}],["$","meta","5",{"property":"og:description","content":"Hợp nhất báo cáo từ các dữ liệu riêng lẻ"}],["$","meta","6",{"property":"og:url","content":"https://phanmemnhatnam.com/huong-dan/cai-dat-cay-du-lieu-hop-nhat"}],["$","meta","7",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","8",{"name":"twitter:title","content":"Cài đặt cây dữ liệu hợp nhất"}],["$","meta","9",{"name":"twitter:description","content":"Hợp nhất báo cáo từ các dữ liệu riêng lẻ"}],["$","link","10",{"rel":"icon","href":"/icon.png?icon.1xm8x7qwhbntr.png","sizes":"986x986","type":"image/png"}],["$","$L1b","11",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1c","v":null,"s":"$8"}},"a":"$@1d","u":"$@1e","b":"4SlL3PREc8TNGwDvcikjB"}
+1f:I[22016,["$3","$c"],""]
+20:I[33271,["$3","$c"],"default"]
+22:I[97367,["$3"],"OutletBoundary"]
+e:["$","nav",null,{"className":"crumbs","aria-label":"Đường dẫn","children":[["$","span","0",{"style":{"display":"contents"},"children":[false,["$","$L1f",null,{"href":"/huong-dan","children":"Hướng dẫn sử dụng"}]]}],["$","span","1",{"style":{"display":"contents"},"children":[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"Cài đặt"}]]}]]}]
+21:T9b4,<h2 id="vao-du-lieu-cong-ty-me-de-thuc-hien-bao-cao-hop-nhat">Vào dữ liệu công ty mẹ để thực hiện báo cáo hợp nhất.</h2>
+<h2 id="buoc-1-thay-doi-tham-so-trong-he-thong">Bước 1: Thay đổi tham số trong hệ thống</h2>
+<p>Vào <strong>Hệ thống</strong> -> 7. <strong>Thay đổi các tham số</strong> -> mật khẩu quản trị</p>
+<p>Tại ô Diễn giải cần tìm gõ chữ "hợp nhất" rồi bấm Enter, sẽ hiện ra bảng như sau:</p>
+<figure><img src="/docs-images/h8.png" alt="" loading="lazy" decoding="async"></figure>
+<p>Tại dòng <strong>"Có hợp nhất dữ liệu"</strong> đổi ở cột <strong>Giá trị</strong> thành <strong>TRUE</strong></p>
+<p>Tại dòng <strong>"Bảng chọn đơn vị khi hợp nhất dữ liệu..."</strong> đổi ở cột <strong>Giá trị</strong> thành <strong>2</strong></p>
+<p>Sau đó bấm <strong>THOÁT</strong> và thoát hẳn phần mềm ra đăng nhập lại</p>
+<h2 id="buoc-2-tu-dien-don-vi-hop-nhat-du-lieu">Bước 2: Từ điển đơn vị hợp nhất dữ liệu</h2>
+<p>Vào <strong>Hệ thống</strong> -> <strong>Từ điển hệ thống</strong> -> <strong>Từ điển đơn vị khi hợp nhất dữ liệu</strong></p>
+<p>Bấm <strong>Thêm -></strong> điền <strong>Số thứ tự -></strong> chọn <strong>Tên dữ liệu</strong> muốn hợp nhất -> bấm <strong>Chấp nhận</strong></p>
+<p><em><strong>*Lưu ý: dữ liệu kế toán có thể nằm tập trung tại 1 máy chủ, hoặc nhiều máy chủ khác nhau.</strong></em></p>
+<figure><img src="/docs-images/h9.png" alt="" loading="lazy" decoding="async"></figure>
+<h2 id="buoc-3-in-bao-cao-hop-nhat">Bước 3: In báo cáo hợp nhất</h2>
+<p>Vào <strong>In báo cáo,</strong> chọn in bất kỳ báo cáo nào tại dữ liệu công ty mẹ, sẽ đều hiện ra các nút tích <strong>Hợp nhất báo cáo</strong> và <strong>Hiện bảng chọn đơn vị</strong></p>
+<figure><img src="/docs-images/h10.png" alt="" loading="lazy" decoding="async"></figure>
+<p>Để in báo cáo hợp nhất, ta tích vào ô <strong>Hợp nhất báo cáo</strong> -> bấm <strong>Thực hiện</strong> để in, sẽ hiện ra bảng chọn các đơn vị muốn hợp nhất, muốn in báo cáo hợp nhất của những đơn vị nào thì tích vào đơn vị đó.</p>
+<figure><img src="/docs-images/h11.png" alt="" loading="lazy" decoding="async"></figure>f:["$","article",null,{"className":"doc","children":["$","$L20",null,{"html":"$21","children":[["$","h1",null,{"children":"Cài đặt cây dữ liệu hợp nhất"}],["$","p",null,{"className":"subtitle","children":"Hợp nhất báo cáo từ các dữ liệu riêng lẻ"}]]}]}]
+10:["$","div",null,{"className":"ask-ai","children":[["$","p",null,{"children":["Còn thắc mắc về “","Cài đặt cây dữ liệu hợp nhất","”?"]}],["$","button",null,{"type":"button","className":"btn btn-primary btn-sm","data-chat-ask":"Cài đặt cây dữ liệu hợp nhất","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","focusable":"false","children":["$","path",null,{"d":"M12 2l1.8 5.6L19.5 9l-5.7 1.5L12 16l-1.8-5.5L4.5 9l5.7-1.4zM19 15l.9 2.6L22.5 18l-2.6.9L19 21.5l-.9-2.6L15.5 18l2.6-.4z"}]}]," Hỏi Trợ lý AI về trang này"]}]]}]
+11:["$","nav",null,{"className":"pager","aria-label":"Trang trước / sau","children":[["$","$L1f",null,{"className":"prev","href":"/huong-dan/cai-dat-may-tram","children":[["$","small",null,{"children":"← Trước"}],["$","b",null,{"children":"Cài đặt máy trạm"}]]}],["$","$L1f",null,{"className":"next","href":"/huong-dan/nhap-so-du-dau","children":[["$","small",null,{"children":"Tiếp theo →"}],["$","b",null,{"children":"Nhập số dư đầu"}]]}]]}]
+12:["$","div",null,{"className":"doc-meta","children":[["$","span",null,{"children":"Cập nhật: 05/11/2026"}],["$","span",null,{"children":["Công ty TNHH Tin học Nhất Nam · ",["$","$L1f",null,{"href":"/#lien-he","children":"Liên hệ hỗ trợ"}]]}]]}]
+13:["$","script","script-0",{"src":"/_next/static/chunks/2lt0rzlshaptm.js","async":true}]
+14:["$","$L22",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@23"}]}]
+1e:true
+8:300
+23:null
+8:C
+1d:0
+a:"$undefined"
+6:"$undefined"
+1c:"$undefined"
+15:"$undefined"

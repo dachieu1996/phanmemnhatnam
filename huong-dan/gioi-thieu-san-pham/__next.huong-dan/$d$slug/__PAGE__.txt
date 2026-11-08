@@ -1,0 +1,101 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/39f_zpv-0ot6x.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/2lt0rzlshaptm.js"
+d:I[72766,["$3","$c"],"default"]
+17:"ViewportBoundary"
+18:I[97367,["$3"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$3"],"$19"]
+1b:"$Sreact.suspense"
+1c:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","$Ld",null,{"space":"huong-dan","groups":[{"group":"Bắt đầu","items":[{"title":"Giới thiệu sản phẩm","href":"/huong-dan/gioi-thieu-san-pham"},{"title":"Giới thiệu công ty","href":"/huong-dan/gioi-thieu-cong-ty"},{"title":"Tải bản hướng dẫn dạng .doc","href":"/huong-dan/tai-ban-huong-dan"}]},{"group":"Cài đặt","items":[{"title":"Cài đặt máy chủ","href":"/huong-dan/cai-dat-may-chu"},{"title":"Cài đặt máy trạm","href":"/huong-dan/cai-dat-may-tram"},{"title":"Cài đặt cây dữ liệu hợp nhất","href":"/huong-dan/cai-dat-cay-du-lieu-hop-nhat"}]},{"group":"Hướng dẫn nhập","items":[{"title":"Nhập số dư đầu","href":"/huong-dan/nhap-so-du-dau"},{"title":"Nhập chứng từ kế toán","href":"/huong-dan/nhap-chung-tu-ke-toan"},{"title":"Nhập - xuất vật tư - hàng hóa","href":"/huong-dan/nhap-xuat-vat-tu-hang-hoa"},{"title":"Phiếu nhập - xuất thẳng vật tư","href":"/huong-dan/phieu-nhap-xuat-thang-vat-tu"},{"title":"Nhập Tài sản cố định","href":"/huong-dan/nhap-tai-san-co-dinh"},{"title":"Thanh lý TSCĐ trên phần mềm kế toán","href":"/huong-dan/thanh-ly-tscd-tren-phan-mem-ke-toan"},{"title":"Nhập Công cụ dụng cụ","href":"/huong-dan/nhap-cong-cu-dung-cu"},{"title":"Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT200","href":"/huong-dan/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat"},{"title":"Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT133","href":"/huong-dan/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat-theo-tt133"},{"title":"Nhập chứng từ hàng bán bị trả lại","href":"/huong-dan/nhap-chung-tu-hang-ban-bi-tra-lai"},{"title":"Nhập phân bổ chiết khấu mua hàng","href":"/huong-dan/nhap-phieu"},{"title":"Nhập các bảng từ điển trong hệ thống","href":"/huong-dan/nhap-tu-dien-he-thong"}]},{"group":"Kế toán vận tải","items":[{"title":"Nhập chứng từ kế toán (vận tải)","href":"/huong-dan/nhap-chung-tu-ke-toan-van-tai"},{"title":"Nhập các bảng từ điển","href":"/huong-dan/nhap-cac-bang-tu-dien"}]},{"group":"Hướng dẫn tiện ích","items":[{"title":"Kết chuyển và Phân bổ tài khoản","href":"/huong-dan/ket-chuyen-va-phan-bo"},{"title":"Tạo dữ liệu mới","href":"/huong-dan/tao-du-lieu-moi"},{"title":"Phục hồi dữ liệu cũ","href":"/huong-dan/phuc-hoi-du-lieu-cu"},{"title":"Sao chép số liệu sang dữ liệu khác","href":"/huong-dan/sao-chep-so-lieu-sang-du-lieu-khac"},{"title":"Sử dụng menu Tiện ích","href":"/huong-dan/su-dung-thanh-menu-tien-ich"},{"title":"Chỉnh sửa đồng loạt chứng từ kế toán","href":"/huong-dan/chinh-sua-dong-loat-chung-tu-ke-toan"},{"title":"Lấy Báo cáo tài chính vào HTKK","href":"/huong-dan/lay-bao-cao-tai-chinh-vao-htkk"},{"title":"Chuyển Excel vào phần mềm kế toán","href":"/huong-dan/chuyen-excel-vao-phan-mem-ke-toan"},{"title":"In một loạt chứng từ kế toán","href":"/huong-dan/in-mot-loat-chung-tu-ke-toan"}]}],"toc":[{"id":"phan-mem-ke-toan-nhat-nam","text":"PHẦN MỀM KẾ TOÁN NHẤT NAM","level":2},{"id":"uu-diem-noi-troi-cua-phan-mem","text":"ƯU ĐIỂM NỔI TRỘI CỦA PHẦN MỀM","level":2},{"id":"dich-vu-va-uu-dai-lon","text":"DỊCH VỤ VÀ ƯU ĐÃI LỚN","level":2}],"help":{"name":"Ms Thảo","phone":"096.273.1994","tel":"0962731994"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Hướng dẫn sử dụng\",\"item\":\"https://phanmemnhatnam.com/huong-dan\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Giới thiệu sản phẩm\",\"item\":\"https://phanmemnhatnam.com/huong-dan/gioi-thieu-san-pham\"}]}"}}],["$","nav",null,{"className":"crumbs","aria-label":"Đường dẫn","children":["$Le","$Lf"]}],"$L10","$L11","$L12","$L13"]}],["$L14"],"$L15"]}],"p":"$@16","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"gioi-thieu-san-pham","s":[]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"huong-dan","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffd43b"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Giới thiệu sản phẩm | Phần mềm kế toán Nhất Nam"}],["$","meta","1",{"name":"description","content":"Phần mềm kế toán Nhất Nam cho doanh nghiệp, chủ đầu tư và hành chính sự nghiệp"}],["$","meta","2",{"name":"application-name","content":"Phần mềm kế toán Nhất Nam"}],["$","link","3",{"rel":"canonical","href":"https://phanmemnhatnam.com/huong-dan/gioi-thieu-san-pham"}],["$","meta","4",{"property":"og:title","content":"Giới thiệu sản phẩm"}],["$","meta","5",{"property":"og:description","content":"Phần mềm kế toán Nhất Nam cho doanh nghiệp, chủ đầu tư và hành chính sự nghiệp"}],["$","meta","6",{"property":"og:url","content":"https://phanmemnhatnam.com/huong-dan/gioi-thieu-san-pham"}],["$","meta","7",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","8",{"name":"twitter:title","content":"Giới thiệu sản phẩm"}],["$","meta","9",{"name":"twitter:description","content":"Phần mềm kế toán Nhất Nam cho doanh nghiệp, chủ đầu tư và hành chính sự nghiệp"}],["$","link","10",{"rel":"icon","href":"/icon.png?icon.1xm8x7qwhbntr.png","sizes":"986x986","type":"image/png"}],["$","$L1c","11",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$8"}},"a":"$@1e","u":"$@1f","b":"4SlL3PREc8TNGwDvcikjB"}
+20:I[22016,["$3","$c"],""]
+21:I[33271,["$3","$c"],"default"]
+25:I[97367,["$3"],"OutletBoundary"]
+e:["$","span","0",{"style":{"display":"contents"},"children":[false,["$","$L20",null,{"href":"/huong-dan","children":"Hướng dẫn sử dụng"}]]}]
+f:["$","span","1",{"style":{"display":"contents"},"children":[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"Bắt đầu"}]]}]
+22:T1b80,<h2 id="phan-mem-ke-toan-nhat-nam"><strong>PHẦN MỀM KẾ TOÁN NHẤT NAM</strong></h2>
+<div align="center"><img class="inline-ico" src="/docs-images/box-nhat-nam.png" alt=""></div>
+<p>Phần mềm được xây dựng theo hướng mở rộng phù hợp với mọi yêu cầu quản lý tài chính kế toán của các đơn vị khác nhau như:</p>
+<ul>
+<li>Kế toán doanh nghiệp lớn, vừa và nhỏ:
+<ul>
+<li>Kế toán thi công xây dựng, giao thông, thủy lợi</li>
+<li>Kế toán thương mại, nhà hàng, kho</li>
+<li>Kế toán sản xuất</li>
+</ul>
+</li>
+<li>Kế toán chủ đầu tư</li>
+<li>Kế toán hành chính sự nghiệp</li>
+</ul>
+<blockquote>
+<p><em><strong>Luôn được cập nhật theo các quyết định, các chuẩn mực kế toán, thông tư mới ban hành</strong></em></p>
+</blockquote>
+<p>Hệ thống tác nghiệp bao gồm:</p>
+<ul>
+<li>Kế toán vốn bằng tiền (Tiền mặt, tiền gửi ngân hàng, tiền vay).</li>
+<li>Kế toán công trình, hợp đồng, công nợ (thanh toán, tạm ứng, phải thu, phải trả khác).</li>
+<li>Kế toán vật tư, hàng hóa, công cụ dụng cụ.</li>
+<li>Kế toán tài sản cố định.</li>
+<li>Kế toán nguồn vốn, các quỹ.</li>
+<li>Kế toán tập hợp chi phí sản xuất và tính giá thành sản phẩm.</li>
+<li>Kế toán thuế GTGT.</li>
+<li>Kế toán tổng hợp và lập các báo cáo tài chính.</li>
+<li>Kế toán quản trị.</li>
+</ul>
+<h2 id="uu-diem-noi-troi-cua-phan-mem">ƯU ĐIỂM NỔI TRỘI CỦA PHẦN MỀM</h2>
+<p>Phần mềm kế toán Nhất Nam với nhiều ưu điểm nổi trội, dưới đây là một vài ưu điểm chính:</p>
+<p><strong>Báo cáo, sổ chi tiết đa dạng:</strong></p>
+<ul>
+<li>Đầy đủ các sổ từ chi tiết đến tổng hợp về đối tượng công nợ, công trình, hợp đồng, dự án, các khoản mục chi phí.</li>
+<li>Các sổ chi tiết được in theo nhiều cách nhìn khác nhau như 1 đối tượng thực hiện nhiều công trình và nguợc lại 1 công trình thực hiện bởi nhiều đối tượng.</li>
+<li>Các báo cáo phân tích giá thành theo vật tư, nhân công, chi phí máy, chi phí khác. Các sổ chi phí công trình, giao khoán.</li>
+</ul>
+<p><strong>Tạo nhiều dữ liệu:</strong> Tạo được nhiều dữ liệu cho nhiều công ty khác nhau mà không mất thêm phí</p>
+<p><strong>Thời gian xử lý dữ liệu liên năm</strong>: Thời gian xử lý dữ liệu, lưu trữ và in báo cáo của chương trình được thực hiện là liên năm. Giúp các doanh nghiệp dễ dàng có những báo cáo theo nhiều năm mà không phải in theo từng năm một rồi ghép lại với nhau.</p>
+<p><strong>Kỳ kế toán linh hoạt:</strong> Chương trình cho phép kế toán mở sổ không nhất thiết phải là tháng đầu năm mà có thể là tháng bất kỳ và chu kỳ kế toán không nhất thiết phải là 12 tháng.</p>
+<p><strong>Xác định các bút toán trùng lặp</strong>: chương trình sẽ tự động khử trùng bút toán có cùng nghiệp vụ phát sinh mà nhập ở nhiều nơi khác nhau. (Ví dụ: chi tiền mua vật tư và phiếu nhập vật tư cùng hạch toán nợ 152 / có 111. Rút tiền ngân hàng về nhập quỹ thì tiền mặt và tiền gửi cùng hạch toán nợ 111 / có 112)</p>
+<p><strong>Tiện ích kiểm tra chênh lệch số liệu:</strong> kiểm tra chênh lệch các tài khoản mục đích là để đối chiếu số liệu không cân đối giữa các tài khoản, bảng cân đối kế toán với các sổ chi tiết.., kiểm tra tìm ra các bút toán hạch toán sai hoặc chưa hạch toán, cho biết giữa các tài khoản chênh lệch như thế nào và chi tiết nào</p>
+<p><strong>Lấy báo cáo từ excel vào phần mềm:</strong> chương trình có công cụ hỗ trợ lấy báo cáo excel vào phần mềm mà không cần nhập liệu từng chứng từ kế toán.</p>
+<p><strong>Lấy báo cáo tài chính vào phần mềm HTKK:</strong> chương trình có công cụ hỗ trợ xuất ra file XML để nộp thẳng lên HTKK mà không cần nhập liệu bằng tay.</p>
+<p><strong>Lấy lại dữ liệu chẳng may bị mất:</strong> khi đang sử dụng chương trình, mà bị mất điện hoặc máy tính tắt đột ngột, dữ liệu có thể bị hỏng, không sử dụng được nữa. Nhưng chúng tôi vẫn có thể khôi phục được dữ liệu hỏng đó với công cụ phục hồi bản quyền của sql2000.</p>
+<p><strong>Công cụ tìm kiếm nhanh chóng, chính xác</strong>: Tìm kiếm nhanh theo nhiều tiêu chí trong khi đang thao tác tại bất kỳ màn hình giao diện nào, tìm kiếm gần đúng đối với các bảng từ điển giúp kế toán viên không cần phải nhớ chính xác tên hoặc mã trong danh mục.</p>
+<p><strong>Bảng từ điển phân cấp</strong>: được tổ chức phân cấp theo N cấp rất thuận tiện, linh hoạt trong việc phân nhóm, phân loại thông tin.</p>
+<p><strong>Mô hình tổ chức:</strong></p>
+<ul>
+<li>Tổ chức phân cấp theo mô hình nhiều đơn vị thành viên.</li>
+<li>Dữ liệu được quản lý chi tiết theo từng đơn vị hoặc tổng hợp từ các đơn vị</li>
+<li>Hợp nhất báo cáo toàn bộ các đơn vị (có bù trừ công nợ nội bộ).</li>
+</ul>
+<p><strong>Hệ thống báo cáo quản trị:</strong> Ngoài các báo cáo quản trị đã có, tùy theo yêu cầu của doanh nghiệp, kế toán viên có thể tự tạo các báo cáo phục vụ quản trị tài chính riêng cho công việc của mình .</p>
+<p><strong>Kết xuất báo cáo</strong>: các báo cáo đều có thể kết xuất ra nhiều định dạng khác nhau như Excel, Word, XML, HTML, Lotus … và giữ nguyên các định dạng cũng như công thức.</p>
+<p>Mạng: Client/Server (không cần phải Share các máy nên rất an toàn và bảo mật dữ liệu).</p>
+<p>Hỗ trợ sử dụng các cơ sở dữ liệu danh tiếng như: SQL Server, Access, Oracle …</p>
+<h2 id="dich-vu-va-uu-dai-lon">DỊCH VỤ VÀ ƯU ĐÃI LỚN</h2>
+<p>Đối với khách hàng dùng thử phần mềm kế toán Nhất Nam, sẽ được <strong>hỗ trợ quyết toán 1 quý</strong> của năm hiện tại và cả năm đối với các năm cũ. Tặng kèm <strong>gói hỗ trợ trực tuyến 24/7</strong> trong thời gian dùng thử.</p>
+<p><strong>Hỗ trợ tư vấn trực tiếp 24/7</strong> kể cả các ngày lễ đối với tất cả khách hàng.</p>
+<p>Khách hàng mua phần mềm Nhất Nam từ máy thứ hai sẽ được hưởng mức <strong>giảm giá lên tới 50%</strong> mức giá gói đầu tiên.</p>10:["$","article",null,{"className":"doc","children":["$","$L21",null,{"html":"$22","children":["$L23","$L24"]}]}]
+11:["$","div",null,{"className":"ask-ai","children":[["$","p",null,{"children":["Còn thắc mắc về “","Giới thiệu sản phẩm","”?"]}],["$","button",null,{"type":"button","className":"btn btn-primary btn-sm","data-chat-ask":"Giới thiệu sản phẩm","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","focusable":"false","children":["$","path",null,{"d":"M12 2l1.8 5.6L19.5 9l-5.7 1.5L12 16l-1.8-5.5L4.5 9l5.7-1.4zM19 15l.9 2.6L22.5 18l-2.6.9L19 21.5l-.9-2.6L15.5 18l2.6-.4z"}]}]," Hỏi Trợ lý AI về trang này"]}]]}]
+12:["$","nav",null,{"className":"pager","aria-label":"Trang trước / sau","children":[null,["$","$L20",null,{"className":"next","href":"/huong-dan/gioi-thieu-cong-ty","children":[["$","small",null,{"children":"Tiếp theo →"}],["$","b",null,{"children":"Giới thiệu công ty"}]]}]]}]
+13:["$","div",null,{"className":"doc-meta","children":[["$","span",null,{"children":"Cập nhật: 05/11/2026"}],["$","span",null,{"children":["Công ty TNHH Tin học Nhất Nam · ",["$","$L20",null,{"href":"/#lien-he","children":"Liên hệ hỗ trợ"}]]}]]}]
+14:["$","script","script-0",{"src":"/_next/static/chunks/2lt0rzlshaptm.js","async":true}]
+15:["$","$L25",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@26"}]}]
+1f:true
+8:300
+23:["$","h1",null,{"children":"Giới thiệu sản phẩm"}]
+24:["$","p",null,{"className":"subtitle","children":"Phần mềm kế toán Nhất Nam cho doanh nghiệp, chủ đầu tư và hành chính sự nghiệp"}]
+26:null
+8:C
+1e:0
+a:"$undefined"
+6:"$undefined"
+1d:"$undefined"
+16:"$undefined"

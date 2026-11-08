@@ -1,0 +1,104 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/39f_zpv-0ot6x.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/_next/static/chunks/2lt0rzlshaptm.js"
+d:I[72766,["$3","$c"],"default"]
+16:"ViewportBoundary"
+17:I[97367,["$3"],"$16"]
+18:"MetadataBoundary"
+19:I[97367,["$3"],"$18"]
+1a:"$Sreact.suspense"
+1b:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","$Ld",null,{"space":"huong-dan","groups":[{"group":"Bắt đầu","items":[{"title":"Giới thiệu sản phẩm","href":"/huong-dan/gioi-thieu-san-pham"},{"title":"Giới thiệu công ty","href":"/huong-dan/gioi-thieu-cong-ty"},{"title":"Tải bản hướng dẫn dạng .doc","href":"/huong-dan/tai-ban-huong-dan"}]},{"group":"Cài đặt","items":[{"title":"Cài đặt máy chủ","href":"/huong-dan/cai-dat-may-chu"},{"title":"Cài đặt máy trạm","href":"/huong-dan/cai-dat-may-tram"},{"title":"Cài đặt cây dữ liệu hợp nhất","href":"/huong-dan/cai-dat-cay-du-lieu-hop-nhat"}]},{"group":"Hướng dẫn nhập","items":[{"title":"Nhập số dư đầu","href":"/huong-dan/nhap-so-du-dau"},{"title":"Nhập chứng từ kế toán","href":"/huong-dan/nhap-chung-tu-ke-toan"},{"title":"Nhập - xuất vật tư - hàng hóa","href":"/huong-dan/nhap-xuat-vat-tu-hang-hoa"},{"title":"Phiếu nhập - xuất thẳng vật tư","href":"/huong-dan/phieu-nhap-xuat-thang-vat-tu"},{"title":"Nhập Tài sản cố định","href":"/huong-dan/nhap-tai-san-co-dinh"},{"title":"Thanh lý TSCĐ trên phần mềm kế toán","href":"/huong-dan/thanh-ly-tscd-tren-phan-mem-ke-toan"},{"title":"Nhập Công cụ dụng cụ","href":"/huong-dan/nhap-cong-cu-dung-cu"},{"title":"Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT200","href":"/huong-dan/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat"},{"title":"Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT133","href":"/huong-dan/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat-theo-tt133"},{"title":"Nhập chứng từ hàng bán bị trả lại","href":"/huong-dan/nhap-chung-tu-hang-ban-bi-tra-lai"},{"title":"Nhập phân bổ chiết khấu mua hàng","href":"/huong-dan/nhap-phieu"},{"title":"Nhập các bảng từ điển trong hệ thống","href":"/huong-dan/nhap-tu-dien-he-thong"}]},{"group":"Kế toán vận tải","items":[{"title":"Nhập chứng từ kế toán (vận tải)","href":"/huong-dan/nhap-chung-tu-ke-toan-van-tai"},{"title":"Nhập các bảng từ điển","href":"/huong-dan/nhap-cac-bang-tu-dien"}]},{"group":"Hướng dẫn tiện ích","items":[{"title":"Kết chuyển và Phân bổ tài khoản","href":"/huong-dan/ket-chuyen-va-phan-bo"},{"title":"Tạo dữ liệu mới","href":"/huong-dan/tao-du-lieu-moi"},{"title":"Phục hồi dữ liệu cũ","href":"/huong-dan/phuc-hoi-du-lieu-cu"},{"title":"Sao chép số liệu sang dữ liệu khác","href":"/huong-dan/sao-chep-so-lieu-sang-du-lieu-khac"},{"title":"Sử dụng menu Tiện ích","href":"/huong-dan/su-dung-thanh-menu-tien-ich"},{"title":"Chỉnh sửa đồng loạt chứng từ kế toán","href":"/huong-dan/chinh-sua-dong-loat-chung-tu-ke-toan"},{"title":"Lấy Báo cáo tài chính vào HTKK","href":"/huong-dan/lay-bao-cao-tai-chinh-vao-htkk"},{"title":"Chuyển Excel vào phần mềm kế toán","href":"/huong-dan/chuyen-excel-vao-phan-mem-ke-toan"},{"title":"In một loạt chứng từ kế toán","href":"/huong-dan/in-mot-loat-chung-tu-ke-toan"}]}],"toc":[{"id":"buoc-1-thay-doi-tham-so","text":"Bước 1: Thay đổi tham số","level":2},{"id":"buoc-2-tao-ma-cac-thanh-pham","text":"Bước 2: Tạo mã các thành phẩm","level":2},{"id":"buoc-3-nhap-dinh-muc","text":"Bước 3: Nhập định mức","level":2},{"id":"3-1-tab-1-dinh-muc","text":"3.1 Tab 1. ĐỊNH MỨC","level":3},{"id":"3-2-tab-2-san-luong-san-xuat","text":"3.2 Tab 2. Sản lượng sản xuất","level":3},{"id":"buoc-4-phieu-xuat-vat-tu-vao-san-xuat","text":"Bước 4: Phiếu xuất vật tư vào sản xuất","level":2},{"id":"buoc-5-ket-chuyen-cong-trinh","text":"Bước 5: Kết chuyển công trình","level":2},{"id":"buoc-6-in-bang-tinh-gia-thanh","text":"Bước 6: In bảng tính giá thành","level":2}],"help":{"name":"Ms Thảo","phone":"096.273.1994","tel":"0962731994"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Hướng dẫn sử dụng\",\"item\":\"https://phanmemnhatnam.com/huong-dan\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT200\",\"item\":\"https://phanmemnhatnam.com/huong-dan/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat\"}]}"}}],"$Le","$Lf","$L10","$L11","$L12"]}],["$L13"],"$L14"]}],"p":"$@15","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat","s":[]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"huong-dan","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffd43b"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT200 | Phần mềm kế toán Nhất Nam"}],["$","meta","1",{"name":"description","content":"Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT200 – hướng dẫn sử dụng phần mềm kế toán Nhất Nam (Hướng dẫn nhập)."}],["$","meta","2",{"name":"application-name","content":"Phần mềm kế toán Nhất Nam"}],["$","link","3",{"rel":"canonical","href":"https://phanmemnhatnam.com/huong-dan/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat"}],["$","meta","4",{"property":"og:title","content":"Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT200"}],["$","meta","5",{"property":"og:description","content":"Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT200 – hướng dẫn sử dụng phần mềm kế toán Nhất Nam (Hướng dẫn nhập)."}],["$","meta","6",{"property":"og:url","content":"https://phanmemnhatnam.com/huong-dan/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat"}],["$","meta","7",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","8",{"name":"twitter:title","content":"Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT200"}],["$","meta","9",{"name":"twitter:description","content":"Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT200 – hướng dẫn sử dụng phần mềm kế toán Nhất Nam (Hướng dẫn nhập)."}],["$","link","10",{"rel":"icon","href":"/icon.png?icon.1xm8x7qwhbntr.png","sizes":"986x986","type":"image/png"}],["$","$L1b","11",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1c","v":null,"s":"$8"}},"a":"$@1d","u":"$@1e","b":"4SlL3PREc8TNGwDvcikjB"}
+1f:I[22016,["$3","$c"],""]
+20:I[33271,["$3","$c"],"default"]
+23:I[97367,["$3"],"OutletBoundary"]
+e:["$","nav",null,{"className":"crumbs","aria-label":"Đường dẫn","children":[["$","span","0",{"style":{"display":"contents"},"children":[false,["$","$L1f",null,{"href":"/huong-dan","children":"Hướng dẫn sử dụng"}]]}],["$","span","1",{"style":{"display":"contents"},"children":[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"Hướng dẫn nhập"}]]}]]}]
+21:T1389,<h2 id="buoc-1-thay-doi-tham-so">Bước 1: Thay đổi tham số</h2>
+<p>Vào Hệ thống -> Thay đổi tham số -> mật khẩu quản trị -> search những tham số sau:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-wrap"><table><thead><tr><th>Tại ô diễn giải cần tìm -> SEARCH -> bấm enter</th><th>Thay đôi cột GIÁ TRỊ</th></tr></thead><tbody><tr><td>Loại giá thành</td><td>Điền số 3</td></tr><tr><td>Quan hệ giữa mã vật tư và mã sản phẩm</td><td>Điền số 3</td></tr></tbody></table></div>
+<h2 id="buoc-2-tao-ma-cac-thanh-pham">Bước 2: Tạo mã các thành phẩm</h2>
+<ul>
+<li>Vào menu <strong>Hệ thống</strong> -> <strong>Từ điển hệ thống</strong> -> <strong>Từ điển vật tư</strong> -> Bấm <strong>THÊM</strong></li>
+<li>Khai báo các mã thành phẩm, ghi <strong>tài khoản 155</strong>, ghi <strong>tài khoản doanh thu thành phẩm 5112</strong> và <strong>giá vốn thành phẩm 6323</strong> (tự mở thêm tài khoản chi tiết này) .</li>
+</ul>
+<figure><img src="/docs-images/h44.png" alt="" loading="lazy" decoding="async"></figure>
+<h2 id="buoc-3-nhap-dinh-muc"><strong>Bước 3: Nhập định mức</strong></h2>
+<ul>
+<li>Vào menu <strong>Số dư</strong> -> <strong>Định mức nguyên vật liệu và sản lượng sx</strong> ->bấm <strong>SỬA</strong></li>
+</ul>
+<h3 id="3-1-tab-1-dinh-muc">3.1 Tab 1. <strong>ĐỊNH MỨC</strong></h3>
+<ul>
+<li>Chọn thành phẩm, thêm các vật tư cần để sản xuất thành phẩm ở phần khung bên cạnh</li>
+<li>Đơn giá và trị giá sau khi tính toán sẽ tự nhảy ra, ở đây chỉ cần điền số lượng.</li>
+</ul>
+<figure><img src="/docs-images/h45.png" alt="" loading="lazy" decoding="async"></figure>
+<h3 id="3-2-tab-2-san-luong-san-xuat">3.2 Tab 2. Sản lượng sản xuất</h3>
+<ul>
+<li>Điền thời gian sản xuất thành phẩm, Ví dụ: 31/01/2019 rồi bấm ENTER</li>
+<li>Cuối tháng 1 mới làm phiếu xuất, thì điền thời gian là 31/01/2019 sau khi ấn enter -> các mã thành phẩm sẽ hiện ra ở khung bên kia, và điền sản lượng dự tính vào cột sản lượng.</li>
+<li>Chọn nút <strong>TÍNH ĐỊNH MỨC</strong>. Chọn khoảng thời gian để tính.</li>
+</ul>
+<figure><img src="/docs-images/h46.png" alt="" loading="lazy" decoding="async"></figure>
+<h2 id="buoc-4-phieu-xuat-vat-tu-vao-san-xuat"><strong>Bước 4:</strong> Phiếu xuất vật tư vào sản xuất</h2>
+<p>Sau đó vào menu <strong>TÍNH TOÁN -> TÍNH SỐ DƯ CUỐI THÁNG</strong> -> Tính toán thời gian vừa tính trong định mức</p>
+<p>Chương trình sẽ <strong>tự động tạo</strong> ra <strong>Phiếu xuất tư vào sản xuất</strong> dựa trên <strong>định mức</strong> ứng với từng công trình thành phẩm</p>
+<figure><img src="/docs-images/h50.png" alt="" loading="lazy" decoding="async"></figure>
+<h2 id="buoc-5-ket-chuyen-cong-trinh"><strong>Bước 5: Kết chuyển công trình</strong></h2>
+<ul>
+<li>Vào menu <strong>TÍNH TOÁN</strong> -> <strong>KẾT CHUYỂN CÔNG TRÌNH, HỢP ĐỒNG, SẢN PHẨM</strong> <strong>-> Sửa tài khoản</strong></li>
+<li>Đặt kết chuyển tự động cho các tài khoản <strong>621,622,623,627</strong> kết chuyển sang <strong>154</strong></li>
+</ul>
+<h2 id="buoc-6-in-bang-tinh-gia-thanh"><strong>Bước 6:</strong> In bảng tính giá thành</h2>
+<ul>
+<li>Vào menu <strong>IN BÁO CÁO -> GIÁ THÀNH SẢN PHẨM SẢN XUẤT -> BẢNG TÍNH GIÁ THÀNH SẢN XUẤT</strong></li>
+<li>Tích vào ô <strong>TẠO PHIẾU NHẬP KHO THÀNH PHẨM</strong> (nếu muốn nhập kho thành phẩm tự động), bấm <strong>IN BÁO CÁO</strong></li>
+</ul>
+<p><em><strong>*Lưu ý: Phiếu nhập kho thành phẩm sẽ được tạo theo ngày/tháng/năm cuối cùng in báo cáo.</strong></em><br>
+<em><strong>Ví dụ: In báo cáo từ tháng 01/2019 đến 01/2019, phiếu nhập sẽ tạo vào 31/01/2019</strong></em><br>
+<em><strong>Còn in báo cáo từ tháng 01/2019 đến 02/2019, phiếu nhập của tháng 1 sẽ bị xóa và gộp vào phiếu ngày 28/02/2019</strong></em></p>
+<figure><img src="/docs-images/h48.png" alt="" loading="lazy" decoding="async"></figure>
+<h4 id="ve-phieu-nhap-kho-thanh-pham"><strong>VỀ PHIẾU NHẬP KHO THÀNH PHẨM</strong></h4>
+<p>Vào menu <strong>Chứng từ -> Phiếu nhập vật tư hàng hóa, thành phẩm</strong> -> chọn kho <strong>Thành phẩm</strong></p>
+<figure><img src="/docs-images/h51.png" alt="" loading="lazy" decoding="async"></figure>
+<p>Muốn xuất bán luôn các phiếu nhập này, chọn nút <em>XUẤT BÁN</em> -> chương trình sẽ cho ra 1 phiếu xuất bán hết số lượng thành phẩm đã nhập -> Lưu số liệu.</p>
+<p>Sau khi xuất bán, phần mềm sẽ tự động tạo phiếu XUẤT GIÁ VỐN ghi có 155/nợ 6323.</p>f:["$","article",null,{"className":"doc","children":["$","$L20",null,{"html":"$21","children":["$L22",""]}]}]
+10:["$","div",null,{"className":"ask-ai","children":[["$","p",null,{"children":["Còn thắc mắc về “","Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT200","”?"]}],["$","button",null,{"type":"button","className":"btn btn-primary btn-sm","data-chat-ask":"Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT200","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"currentColor","aria-hidden":"true","focusable":"false","children":["$","path",null,{"d":"M12 2l1.8 5.6L19.5 9l-5.7 1.5L12 16l-1.8-5.5L4.5 9l5.7-1.4zM19 15l.9 2.6L22.5 18l-2.6.9L19 21.5l-.9-2.6L15.5 18l2.6-.4z"}]}]," Hỏi Trợ lý AI về trang này"]}]]}]
+11:["$","nav",null,{"className":"pager","aria-label":"Trang trước / sau","children":[["$","$L1f",null,{"className":"prev","href":"/huong-dan/nhap-cong-cu-dung-cu","children":[["$","small",null,{"children":"← Trước"}],["$","b",null,{"children":"Nhập Công cụ dụng cụ"}]]}],["$","$L1f",null,{"className":"next","href":"/huong-dan/nhap-dinh-muc-nguyen-vat-lieu-cho-don-vi-san-xuat-theo-tt133","children":[["$","small",null,{"children":"Tiếp theo →"}],["$","b",null,{"children":"Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT133"}]]}]]}]
+12:["$","div",null,{"className":"doc-meta","children":[["$","span",null,{"children":"Cập nhật: 05/11/2026"}],["$","span",null,{"children":["Công ty TNHH Tin học Nhất Nam · ",["$","$L1f",null,{"href":"/#lien-he","children":"Liên hệ hỗ trợ"}]]}]]}]
+13:["$","script","script-0",{"src":"/_next/static/chunks/2lt0rzlshaptm.js","async":true}]
+14:["$","$L23",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@24"}]}]
+1e:true
+8:300
+22:["$","h1",null,{"children":"Nhập định mức nguyên vật liệu cho đơn vị sản xuất theo TT200"}]
+24:null
+8:C
+1d:0
+a:"$undefined"
+6:"$undefined"
+1c:"$undefined"
+15:"$undefined"
